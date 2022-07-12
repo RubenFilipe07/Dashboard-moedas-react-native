@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ConversorMoedas",
-    "slug": "ConversorMoedas",
+    "name": "Dashboard Moedas",
+    "slug": "dashboardmoedas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -9,7 +9,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#21262D"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -23,8 +23,10 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#FFFFFF",
+        "versionCode": 2
+      },
+      "package": "com.ruben_filipe07.dashboardmoedas"
     },
     "web": {
       "favicon": "./assets/favicon.png"
