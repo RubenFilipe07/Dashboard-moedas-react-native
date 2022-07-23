@@ -23,11 +23,10 @@ const styles = StyleSheet.create({
       flexDirection: 'row',
       justifyContent: 'space-between',
       alignItems: 'center',
-      width: '100%',
+      width: '80%',
       height: '10%',
       borderBottomWidth: 1,
       borderBottomColor: '#303336',
-      width: '80%',
     },
     blocoSimbolo: {
       flexDirection: 'row',
